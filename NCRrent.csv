@@ -1,0 +1,160 @@
+sl.no,price,Address,Location,area,Bedrooms,Bathrooms,Balcony,Status,new/old,parking,Furnished_status,Lift,type_of_building,Price_sqft,Police Station within 3 kms,Malls within 5 kms,Schools within 5 kms,Metro within 3 kms
+1,8800000,"Sector 79,Gurgaon, Delhi NCR","Gurgaon, Delhi NCR",1490,3,3,1,Ready to Move,New Property,0,Semi-Furnished,2,Flat,5906.04,No,No,Yes,No
+2,16500000,"Vaishali, Ghaziabad, Delhi NCR","Ghaziabad, Delhi NCR",2385,4,5,1,Ready to Move,New Property,1,Unfurnished,0,Flat,6918.239,Yes,Yes,Yes,No
+3,3810000,"Link Road, F Block, Sector 50, Noida, Uttar Pradesh, Sector 1, Greater Noida, Delhi NCR","Greater Noida, Delhi NCR",1050,2,2,3,Under Construction,New Property,1,Unfurnished,2,Flat,3628.571,Yes,Yes,Yes,Yes
+4,6200000,"Jaypee Pavilion Court Sector 128, Noida, Sector 128, Noida, Delhi NCR","Noida, Delhi NCR",1350,2,2,3,Ready to Move,Resale,1,Semi-Furnished,3,Flat,4592.593,Yes,Yes,Yes,No
+5,3700000,"tower 2, 6th floor, Crossings Republik, Ghaziabad, Delhi NCR","Ghaziabad, Delhi NCR",1150,2,2,3,Ready to Move,New Property,1,Unfurnished,0,Flat,3217.391,No,Yes,Yes,No
+6,3270000,"Nirala Aspire, GH03, Sector 16C, Hundal, Greater Noida, Uttar Pradesh 201306, Noida Extension Block C, Noida, Delhi NCR","Noida, Delhi NCR",890,2,2,3,Ready to Move,Resale,1,Semi-Furnished,2,Flat,3674.157,No,Yes,Yes,Yes
+7,3990000,"Suncity Avenue 102, Sector 102, Gurgaon Bang on Dwarka Expressway having all Facilities of a gated Society., Sector 102, Gurgaon, Delhi NCR","Gurgaon, Delhi NCR",850,2,2,1,Ready to Move,Resale,1,Semi-Furnished,0,Flat,4694.118,No,Yes,Yes,No
+8,3500000,"Sector 2, Greater Noida, Sector 2, Greater Noida, Delhi NCR","Greater Noida, Delhi NCR",960,2,2,2,Ready to Move,Resale,1,Semi-Furnished,0,Flat,3645.833,No,Yes,Yes,No
+9,5500000,"Gaur City 5th Avenue, Noida Extension, Noida, Delhi NCR","Noida, Delhi NCR",1400,3,3,4,Ready to Move,Resale,1,Semi-Furnished,2,Flat,3928.571,No,Yes,Yes,Yes
+10,7300000,"Sector 24 Rohini, New Delhi - Rohini, Delhi NCR","Rohini, Delhi NCR",850,3,2,1,Ready to Move,New Property,2,Semi-Furnished,1,Flat,8588.235,No,Yes,Yes,Yes
+11,7700000,"Gurgaon - Faridabad Road, Gurgaon, Delhi NCR","Gurgaon, Delhi NCR",1250,2,2,2,Ready to Move,Resale,1,Semi-Furnished,0,Flat,6160,No,Yes,Yes,Yes
+12,10500000,"Sector 110A, Gurgaon, Chandan Vihar, Gurgaon, Delhi NCR","Gurgaon, Delhi NCR",1615,3,3,3,Ready to Move,Resale,1,Unfurnished,0,Flat,6501.548,Yes,Yes,Yes,No
+13,7200000,"H-024, Gulshan Vivante, Sector-137, Noida, Sector 137, Noida, Delhi NCR","Noida, Delhi NCR",1200,2,2,3,Ready to Move,Resale,1,Semi-Furnished,0,Flat,6000,No,Yes,Yes,No
+14,7000000,"G T Road, Ghaziabad, Delhi NCR","Ghaziabad, Delhi NCR",1690,3,3,1,Ready to Move,Resale,1,Semi-Furnished,0,Flat,4142.012,No,Yes,Yes,No
+15,9500000,"Sector 24 Rohini, New Delhi - Rohini, Delhi NCR","Rohini, Delhi NCR",1000,3,2,1,Ready to Move,New Property,2,Semi-Furnished,1,Individual House,9500,Yes,Yes,Yes,Yes
+16,15000000,"Sector 24 Rohini, New Delhi - Rohini, Delhi NCR","Rohini, Delhi NCR",1450,4,3,1,Ready to Move,New Property,2,Semi-Furnished,1,Individual House,10344.83,Yes,Yes,Yes,Yes
+17,4800000,"Noida Extension, Noida, Delhi NCR","Noida, Delhi NCR",1175,2,2,1,Ready to Move,Resale,1,Semi-Furnished,0,Flat,4085.106,No ,Yes ,Yes,Yes
+18,5100000,"NeelPadam Kunj, Vaishali, Sector 1, Ghaziabad, Sector 1 Vaishali, Ghaziabad, Delhi NCR","Ghaziabad, Delhi NCR",1087,2,2,2,Ready to Move,Resale,1,Semi-Furnished,2,Flat,4691.812,Yes,Yes,Yes,No
+19,14000000,"Sector 45, Noida, Sector 45, Noida, Delhi NCR","Noida, Delhi NCR",1845,3,3,3,Under Construction,Resale,2,Semi-Furnished,2,Flat,7588.076,Yes,Yes,Yes,Yes
+20,6250000,"Sector 37C, Gurgaon, Delhi NCR","Gurgaon, Delhi NCR",1400,2,2,2,Ready to Move,New Property,1,Unfurnished,0,Flat,4464.286,Yes,Yes,Yes,No
+21,8700000,"Sushant Lok 2, Gurgaon, Delhi NCR","Gurgaon, Delhi NCR",1600,3,2,1,Ready to Move,Resale,1,Unfurnished,0,Flat,5437.5,No,Yes,Yes,No
+22,13000000,"Sector 29, Noida, Delhi NCR","Noida, Delhi NCR",1950,3,3,2,Ready to Move,Resale,1,Semi-Furnished,0,Individual House,6666.667,Yes,Yes,Yes,Yes
+23,15000000,"flat number 703, kalypso tower 4, jaypee wish town noida, sector 128, Sector 128, Noida, Delhi NCR","Noida, Delhi NCR",1800,2,3,1,Ready to Move,New Property,1,Unfurnished,0,Flat,8333.333,Yes,Yes,Yes,No
+24,5500000,"Noida Extension, Noida., Noida Extension, Noida, Delhi NCR","Noida, Delhi NCR",1440,3,2,5,Ready to Move,Resale,1,Semi-Furnished,2,Flat,3819.444,No,Yes,Yes,Yes
+25,4200000,"Noida Extension, Noida, Noida Extension, Noida, Delhi NCR","Noida, Delhi NCR",1040,2,2,3,Ready to Move,Resale,2,Semi-Furnished,3,Flat,4038.462,No,Yes,Yes,Yes
+26,3900000,"Noida extension., Noida Extension, Greater Noida, Delhi NCR","Noida, Delhi NCR",1025,2,2,3,Ready to Move,Resale,1,Semi-Furnished,2,Flat,3804.878,No,Yes,Yes,Yes
+27,10000000,"Sector 16 Vasundhara, Ghaziabad, Delhi NCR","Ghaziabad, Delhi NCR",1836,3,2,1,Ready to Move,Resale,1,Semi-Furnished,0,Individual House,5446.623,Yes,Yes,Yes,No
+28,7600000," Vaishali, Ghaziabad, Delhi NCR","Ghaziabad, Delhi NCR",1350,3,2,4,Ready to Move,Resale,1,Semi-Furnished,3,Flat,5629.63,Yes,Yes,Yes,No
+29,3900000,"Sector 81, Gurgaon, Delhi NCR","Gurgaon, Delhi NCR",800,2,2,1,Ready to Move,Resale,1,Semi-Furnished,2,Flat,4875,No,Yes,Yess,No
+30,9000000,"sector 103 gurgaon, Dwarka Expressway, Gurgaon, Delhi NCR","Gurgaon, Delhi NCR",1481,2,2,2,Ready to Move,Resale,2,Unfurnished,2,Flat,6076.975,No,Yes,Yes,No
+31,8350000,"lotus boulevard, Sector 100, Noida, Delhi NCR","Noida, Delhi NCR",1398,2,2,2,Ready to Move,Resale,1,Semi-Furnished,3,Flat,5972.818,Yes,Yes,Yes,Yes
+32,13500000,"Adhunik CGHS, Opp Tau Devil Lal Bio DiversitPark, Sector 52, Gurugram, Delhi NCR, Sector 52, Gurgaon, Delhi NCR","Gurgaon, Delhi NCR",2150,3,3,4,Ready to Move,Resale,1,Semi-Furnished,0,Individual House,6279.07,Yes,Yes,Yes,Yes
+33,5310000,"Shakti Khand 2, Ghaziabad, Delhi NCR","Ghaziabad, Delhi NCR",1100,3,2,1,Ready to Move,Resale,1,Furnished,0,Flat,4827.273,Yes,Yes,Yes,No
+34,15000000,"Sector 68, Gurgaon, Delhi NCR","Gurgaon, Delhi NCR",1960,3,3,1,Under Construction,Resale,1,Semi-Furnished,0,Flat,7653.061,Yes,Yes,Yes,No
+35,17500000,"Sector 104, Gurgaon, Sector 104, Gurgaon, Delhi NCR","Gurgaon, Delhi NCR",2450,3,3,3,Ready to Move,New Property,2,Unfurnished,2,Flat,7142.857,No,Yes,Yes,No
+36,5000000,"Aspire1106, Sector 78, Noida, Delhi NCR","Noida, Delhi NCR",1000,2,2,3,Ready to Move,Resale,1,Semi-Furnished,2,Flat,5000,Yes,No,No,No
+37,3500000,"Gali No 9, Garhi Jharia Maria, New Delhi - South, Delhi NCR","New Delhi - South, Delhi NCR",850,2,2,1,Ready to Move,Resale,1,Furnished,0,Flat,4117.647,Yes,Yes,Yes,Yes
+38,4550000,"Krishna Park Colony, New Delhi - South, Delhi NCR","New Delhi - South, Delhi NCR",950,3,2,1,Ready to Move,New Property,1,Semi-Furnished,1,Flat,4789.474,Yes,Yes,Yes,Yes
+39,4000000,"Amritpuri B East of Kailash, Amritpuri, New Delhi - South, Delhi NCR","New Delhi - South, Delhi NCR",700,2,2,1,Ready to Move,Resale,1,Unfurnished,0,Flat,5714.286,Yes,Yes,Yes,Yes
+40,3500000,"Shalimar Garden Exten 1 near Gulmohar park, Shalimar garden, Ghaziabad, Delhi NCR","Ghaziabad, Delhi NCR",750,2,2,2,Ready to Move,Resale,1,Semi-Furnished,0,Flat,4666.667,Yes,Yes,Yes,No
+41,3500000,"205. Hardik tower sector 53 Noida, Sector 53, Noida, Delhi NCR","Noida, Delhi NCR",950,2,2,1,Ready to Move,Resale,1,Semi-Furnished,1,Individual House,3684.211,Yes,Yes,Yes,Yes
+42,2400000,"Gali No-15 Sadnagar Palam New Delhi-110045, Palam Colony, New Delhi - Dwarka, Delhi NCR","New Delhi - Dwarka, Delhi NCR",540,2,2,1,Ready to Move,New Property,1,Semi-Furnished,0,Flat,4444.444,Yes,No,Yes,No
+43,80000000,"Central park the resorts sector 48 gurgaon, Sector 48, Gurgaon, Delhi NCR","Gurgaon, Delhi NCR",5571,5,5,3,Ready to Move,Resale,4,Semi-Furnished,2,Individual House,14360.08,Yes,Yes,Yes,Yes
+44,9500000,"Patel Nagar West, New Delhi - West, Delhi NCR","New Delhi - West, Delhi NCR",1200,2,2,2,Ready to Move,Resale,1,Semi-Furnished,0,Flat,7916.667,Yes,Yes,Yes,Yes
+45,10500000,"Sector 65, Gurgaon, Delhi NCR","Gurgaon, Delhi NCR",1020,2,2,2,Ready to Move,Resale,1,Semi-Furnished,0,Flat,10294.12,Yes ,Yes,Yes,No
+46,7500000,"G 033., Sector 108, Gurgaon, Delhi NCR","Gurgaon, Delhi NCR",1505,2,2,2,Ready to Move,Resale,1,Semi-Furnished,2,Flat,4983.389,No,Yes,Yes,No
+47,4800000,"Ghaziabad, Vivekanand Nagar, Ghaziabad, Delhi NCR","Ghaziabad, Delhi NCR",1232,6,3,2,Ready to Move,Resale,1,Unfurnished,0,Flat,3896.104,Yes,Yes,Yes,No
+48,5600000,"Gurgaon - Faridabad Road, Gurgaon, Delhi NCR","Gurgaon, Delhi NCR",929,2,2,1,Ready to Move,Resale,1,Semi-Furnished,0,Flat,6027.987,No,Yes,Yes,Yes
+49,8500000,"Vaishali, Ghaziabad, Delhi NCR","Ghaziabad, Delhi NCR",1350,3,3,1,Ready to Move,Resale,1,Semi-Furnished,0,Flat,6296.296,Yes,Yes,Yes,No
+50,4700000,"Indirapuram Ghaziabad, Indirapuram, Ghaziabad, Delhi NCR","Ghaziabad, Delhi NCR",1085,2,2,2,Ready to Move,Resale,1,Semi-Furnished,0,Flat,4331.797,Yes,Yes,Yes,No
+51,8500000,"Sector 108, Gurgaon, Delhi NCR","Gurgaon, Delhi NCR",1790,3,3,1,Ready to Move,Resale,1,Semi-Furnished,0,Flat,4748.603,No,Yes,Yes,No
+52,10000000,"Sector 104, Gurgaon, Sector 104, Gurgaon, Delhi NCR","Gurgaon, Delhi NCR",1689,3,3,4,Ready to Move,New Property,1,Semi-Furnished,3,Flat,5920.663,No,Yes ,Yes,No
+53,18000000,"Sector 67, Gurgaon, Sector 67, Gurgaon, Delhi NCR","Gurgaon, Delhi NCR",2411,3,3,3,Ready to Move,Resale,2,Semi-Furnished,2,Flat,7465.782,No,No,Yes,No
+54,12400000,"2nd floor metro view apartment sector 13 B dwarka, Sector 13 Dwarka, New Delhi - Dwarka, Delhi NCR","New Delhi - Dwarka, Delhi NCR",1650,3,2,2,Ready to Move,Resale,2,Semi-Furnished,0,Flat,7515.152,Yes,No,Yes,No
+55,7700000,"Sector 137, Noida, Sector 137, Noida, Delhi NCR","Noida, Delhi NCR",1685,3,4,4,Ready to Move,Resale,1,Unfurnished,2,Flat,4569.733,No,No,Yes,Yes
+56,6000000,"Vaishali, Ghaziabad, Delhi NCR","Ghaziabad, Delhi NCR",1050,2,2,2,Ready to Move,Resale,1,Semi-Furnished,0,Flat,5714.286,Yes,Yes,Yes,Yes
+57,12500000,"sector 6 dwarka, Sector 6 Dwarka, New Delhi - Dwarka, Delhi NCR","New Delhi - Dwarka, Delhi NCR",1300,2,2,2,Ready to Move,Resale,2,Semi-Furnished,2,Flat,9615.385,Yes,No,Yes,Yes
+58,6380000,"Chhatarpur New Delhi, Chhattarpur, New Delhi - South, Delhi NCR","New Delhi - South, Delhi NCR",1170,3,2,1,Ready to Move,New Property,1,Semi-Furnished,1,Flat,5452.991,No,Yes,Yes,Yes
+59,7400000,"Sohna Road, Gurgaon, Sector 33, Gurgaon, Delhi NCR","Gurgaon, Delhi NCR",1275,2,2,2,Ready to Move,New Property,1,Semi-Furnished,2,Flat,5803.922,Yes,Yes,Yes,Yes
+60,8400000,"Sector 84, Gurugram, Haryana, Sihi, Gurgaon, Delhi NCR","Gurgaon, Delhi NCR",1890,3,3,4,Ready to Move,Resale,1,Semi-Furnished,2,Flat,4444.444,Yes,Yes,Yes,Yes
+61,6400000," Sector 76, Noida, Delhi NCR","Noida, Delhi NCR",1455,3,2,3,Ready to Move,Resale,1,Semi-Furnished,2,Individual House,4398.625,Yes,Yes,Yes,Yes
+62,19000000,"Dwarka, New Delhi - Dwarka, Delhi NCR","New Delhi - Dwarka, Delhi NCR",1768,3,2,1,Ready to Move,Resale,2,Semi-Furnished,2,Flat,10746.61,Yes,Yes,Yes,Yes
+63,4300000,"sector 1 greater noida west, Greater Noida West, Greater Noida, Delhi NCR","Noida, Delhi NCR",1295,2,2,4,Ready to Move,Resale,2,Semi-Furnished,0,Individual House,3320.463,No,Yes,Yes,Yes
+64,23800000,"Ibiza Town, Suraj Kund Road, Suraj Kund, Faridabad, Delhi NCR","Faridabad, Delhi NCR",3500,4,5,3,Ready to Move,Resale,1,Semi-Furnished,2,Flat,6800,Yes,Yes,Yes,No
+65,10500000,"Plot No:1, Sadarpur, Sector-45, Noida, Uttar Pradesh 201303, Sector 45, Noida, Delhi NCR","Noida, Delhi NCR",1850,3,4,2,Ready to Move,Resale,2,Semi-Furnished,3,Flat,5675.676,Yes,Yes,Yes,No
+66,10800000,"Sector 32 Sohna Gurgaon Haryana, Sohna, Gurgaon, Delhi NCR","Gurgaon, Delhi NCR",1966,2,2,1,Ready to Move,Resale,1,Semi-Furnished,0,Flat,5493.388,No,Yes,Yes,No
+67,5500000,"Indirapuram, Ghaziabad, Delhi NCR","Ghaziabad, Delhi NCR",1350,2,2,1,Under Construction,Resale,1,Furnished,0,Flat,4074.074,Yes,Yes,Yes,No
+68,4320000,"Sector 137, Noida, Sector 137, Noida, Delhi NCR","Noida, Delhi NCR",1040,2,2,3,Ready to Move,New Property,1,Unfurnished,2,Flat,4153.846,No,No,Yes,Yes
+69,3000000,"Sai Enclave niti khand indirapuram, Niti Khand-Indirapuram, Ghaziabad, Delhi NCR","Ghaziabad, Delhi NCR",800,2,2,1,Ready to Move,Resale,1,Semi-Furnished,0,Flat,3750,Yes,Yes,Yes,No
+70,3500000," Greater Noida West, Greater Noida, Delhi NCR","Noida, Delhi NCR",950,2,2,3,Ready to Move,Resale,1,Semi-Furnished,3,Flat,3684.211,No,Yes,Yes,Yes
+71,16000000,"F-54., South City 2, Gurgaon, Delhi NCR","Gurgaon, Delhi NCR",2000,4,4,3,Ready to Move,Resale,2,Semi-Furnished,0,Flat,8000,No,Yes,Yes,No
+72,3000000,"NH 24, Ghaziabad, Delhi NCR","Ghaziabad, Delhi NCR",900,2,2,3,Ready to Move,Resale,1,Semi-Furnished,2,Individual House,3333.333,Yes,Yes,Yes,No
+73,3300000,"Park Lotus Surajpur Greater Noida, Surajpur, Greater Noida, Delhi NCR","Noida, Delhi NCR",960,2,2,1,Ready to Move,Resale,1,Semi-Furnished,1,Flat,3437.5,Yes,Yes,Yes,Yes
+74,8200000,"Gurgaon - Faridabad Road, Gurgaon, Gwal Pahari, Gurgaon - South, Delhi NCR","Gurgaon - South, Delhi NCR",1371,2,2,3,Ready to Move,New Property,2,Unfurnished,2,Flat,5981.036,Yes,No,Yes,No
+75,6000000,"Unitech Horizon Greater Noida, PI 2, Greater Noida, Delhi NCR","Noida, Delhi NCR",1750,3,3,1,Ready to Move,Resale,2,Semi-Furnished,2,Flat,3428.571,No,Yes,Yes,Yes
+76,4100000,"NH 24 Ghaziabad, NH 24, Ghaziabad, Delhi NCR","Ghaziabad, Delhi NCR",1299,3,2,4,Ready to Move,Resale,1,Semi-Furnished,2,Flat,3156.274,Yes,Yes,Yes,No
+77,5200000,"plot no -02 E sector 12 Graeter noida west, Greater Noida West, Noida, Delhi NCR","Noida, Delhi NCR",1365,3,2,3,Ready to Move,Resale,2,Furnished,2,Flat,3809.524,No,Yes,Yes,Yes
+78,21000000,"godrej golf links, the crest, Pari Chowk, Greater Noida, Delhi NCR","Noida, Delhi NCR",2800,4,5,4,Under Construction,Resale,1,Unfurnished,0,Flat,7500,No,Yes,Yes,Yes
+79,2650000,"Sector 4, Greater Noida, Greater Noida West, Greater Noida, Delhi NCR","Noida, Delhi NCR",835,2,2,2,Under Construction,Resale,1,Unfurnished,0,Flat,3173.653,Yes,Yes,Yes,Yes
+80,10000000,"Paschim Vihar, New Delhi - West, Delhi NCR","New Delhi - West, Delhi NCR",1000,2,2,1,Ready to Move,Resale,1,Unfurnished,0,Individual House,10000,Yes,Yes,Yes,Yes
+81,4500000,"A33 Shishram park Uttam Nagar, Uttam Nagar East, New Delhi - West, Delhi NCR","New Delhi - West, Delhi NCR",1000,3,2,1,Ready to Move,Resale,1,Semi-Furnished,0,Flat,4500,Yes,Yes,Yes,Yes
+82,6900000,"B1 1103 The Romano sector 118 Noida, Sector 118, Noida, Delhi NCR","Noida, Delhi NCR",1260,2,2,3,Ready to Move,Resale,1,Unfurnished,2,Flat,5476.19,Yes,Yes,Yes,Yes
+83,13500000,"Sector 99, Gurgaon, Delhi NCR","Gurgaon, Delhi NCR",2425,4,4,1,Under Construction,Resale,1,Semi-Furnished,0,Flat,5567.01,No,Yes,Yes,No
+84,4500000,"Pratap vihar Ghaziabad, Pratap Vihar, Ghaziabad, Delhi NCR","Ghaziabad, Delhi NCR",1198,3,2,1,Ready to Move,Resale,1,Furnished,0,Flat,3756.26,Yes,Yes,Yes,No
+85,32500000,"Sultanpur, New Delhi, Sultanpur, New Delhi - South, Delhi NCR","New Delhi - South, Delhi NCR",3000,3,3,2,Ready to Move,Resale,2,Semi-Furnished,1,Flat,10833.33,Yes,Yes,Yes,Yes
+86,11000000,"Sector 71, Gurgaon, Delhi NCR","Gurgaon, Delhi NCR",1743,3,3,2,Ready to Move,New Property,1,Unfurnished,0,Individual House,6310.958,Yes,Yes,Yes,Yes
+87,3200000,"Gali no 4, behind Aman bakery, Mahavir Enclave Part 1, New Delhi - Dwarka, Delhi NCR","New Delhi - Dwarka, Delhi NCR",650,2,2,1,Ready to Move,Resale,1,Unfurnished,0,Flat,4923.077,Yes,No,No,No
+88,3200000,"greater noida, Jalvayu Vihar, Greater Noida, Delhi NCR","Noida, Delhi NCR",815,2,2,1,Ready to Move,Resale,1,Semi-Furnished,0,Flat,3926.38,No,No,Yes,Yes
+89,3400000,"Bhopura, Ghaziabad, Delhi NCR","Ghaziabad, Delhi NCR",1050,2,2,1,Under Construction,Resale,1,Unfurnished,0,Flat,3238.095,No,No,Yes,No
+90,11100000,"Ashoka Enclave Part 1, Faridabad, Delhi NCR","Faridabad, Delhi NCR",2100,4,3,2,Ready to Move,Resale,1,Furnished,0,Flat,5285.714,No,Yes,Yes,No
+91,3500000,"Sector 5 Rajendra Nagar, Ghaziabad, Delhi NCR","Ghaziabad, Delhi NCR",900,2,2,1,Ready to Move,Resale,1,Unfurnished,0,Flat,3888.889,No,No,Yes,No
+92,12500000,"Unitech Fresco Nirvana Country Sector 50, Gurgaon, Nirvana Country, Gurgaon, Delhi NCR","Gurgaon, Delhi NCR",1836,3,3,3,Ready to Move,Resale,2,Semi-Furnished,3,Flat,6808.279,No,Yes,Yes,Yes
+93,8500000,"Plot No. GH 03/A, Sector 143, Noida, Uttar Pradesh 201306, Sector 143A, Noida, Delhi NCR","Noida, Delhi NCR",1495,3,2,1,Ready to Move,Resale,1,Semi-Furnished,0,Flat,5685.619,No,Yes,Yes,Yes
+94,4200000,"Noida Extension, Noida, Noida Extension, Noida, Delhi NCR","Noida, Delhi NCR",1040,2,2,2,Ready to Move,Resale,1,Semi-Furnished,3,Flat,4038.462,Yes,No,No,No
+95,82000000,"Golf Course Road, Gurgaon, Golf Course Road, Gurgaon, Delhi NCR","Gurgaon, Delhi NCR",5495,5,6,2,Ready to Move,Resale,3,Semi-Furnished,3,Flat,14922.66,Yes,Yes,Yes,Yes
+96,9000000,"panchwati appartments, Vikaspuri, New Delhi - West, Delhi NCR","New Delhi - West, Delhi NCR",1250,2,2,2,Ready to Move,Resale,1,Semi-Furnished,0,Individual House,7200,Yes,Yes,No,No
+97,14000000,"B-31/S-1, B- Block, Dilshad Garden, Shahdara, Delhi-110095, Dilshad Garden, New Delhi - East, Delhi NCR","New Delhi - East, Delhi NCR",2500,3,2,1,Ready to Move,Resale,2,Semi-Furnished,0,Flat,5600,Yes,Yes,Yes,Yes
+98,8900000,"Sector 37D, Gurgaon, Delhi NCR","Gurgaon, Delhi NCR",1815,3,3,1,Ready to Move,Resale,1,Unfurnished,0,Flat,4903.581,Yes,Yes,No,Yes
+99,3200000,"Raj Nagar Extension, Ghaziabad, Delhi NCR","Ghaziabad, Delhi NCR",1041,2,2,3,Ready to Move,Resale,1,Unfurnished,0,Flat,3073.967,No,Yes,Yes,No
+100,15000000,"S Block, Sector 49, Gurgaon, Delhi NCR","Gurgaon, Delhi NCR",2000,4,4,3,Ready to Move,Resale,2,Unfurnished,0,Flat,7500,Yes,Yes,Yes,Yes
+101,17500000,"Moti Nagar, New Delhi, Moti Nagar, New Delhi - West, Delhi NCR","New Delhi - West, Delhi NCR",1600,3,2,3,Ready to Move,Resale,1,Unfurnished,4,Individual House,10937.5,Yes,Yes,Yes,Yes
+102,11500000,"sector 84, Sihi, Gurgaon, Delhi NCR","Gurgaon, Delhi NCR",1963,3,3,3,Ready to Move,Resale,2,Unfurnished,2,Flat,5858.38,No,Yes,Yes,No
+103,6000000,"Sector 119, Noida -201301, Sector 119, Noida, Delhi NCR","Noida, Delhi NCR",1246,2,2,3,Ready to Move,Resale,1,Unfurnished,2,Individual House,4815.409,Yes,Yes,Yes,No
+104,3900000,"omicran near Parichowk supertech Czar, Omicron, Greater Noida, Delhi NCR","Noida, Delhi NCR",1085,2,2,3,Ready to Move,Resale,1,Unfurnished,3,Flat,3594.47,Yes,Yes,Yes,Yes
+105,3600000,"Ajanra le Garden, sector 16, greater noida, dist. Gautam budh nagar. U.P., Greater Noida West, Greater Noida, Delhi NCR","Noida, Delhi NCR",995,2,2,3,Ready to Move,Resale,1,Unfurnished,0,Individual House,3618.09,Yes,Yes,Yes,Yes
+106,49000000,"Sector 27, Greater Noida, Noida, Uttar Pradesh, Sector 27, Greater Noida, Delhi NCR","Noida, Delhi NCR",6168,5,5,3,Ready to Move,Resale,3,Semi-Furnished,0,Flat,7944.228,Yes,Yes,Yes,Yes
+107,7500000,"Sector 77, Gurgaon, Delhi NCR","Gurgaon, Delhi NCR",1260,2,2,1,Under Construction,New Property,1,Unfurnished,2,Individual House,5952.381,No,No,Yes,No
+108,18000000,"Eastend Aptts, Mayur Vihar 1, New Delhi - East, Delhi NCR","New Delhi - East, Delhi NCR",1700,4,3,1,Ready to Move,Resale,1,Unfurnished,2,Individual House,10588.24,Yes,Yes,Yes,Yes
+109,17200000,"Sector 10 Dwarka, New Delhi - Dwarka, Delhi NCR","New Delhi - Dwarka, Delhi NCR",2025,3,2,4,Ready to Move,Resale,2,Unfurnished,2,Flat,8493.827,Yes,Yes,Yes,Yes
+110,17000000,"Moti Nagar, New Delhi - West, Delhi NCR","New Delhi - West, Delhi NCR",1600,3,2,2,Ready to Move,Resale,2,Semi-Furnished,3,Flat,10625,Yes,Yes,Yes,No
+111,5500000,"sector 12 gurgaon, Sector 12, Gurgaon, Delhi NCR","Gurgaon, Delhi NCR",1150,3,2,1,Ready to Move,Resale,1,Semi-Furnished,1,Flat,4782.609,No,Yes,Yes,No
+112,13000000,"Kumar Excellency plaza, Sector 11 Vasundhara, Ghaziabad, Delhi NCR","Ghaziabad, Delhi NCR",2300,4,4,3,Ready to Move,Resale,1,Unfurnished,0,Flat,5652.174,Yes,Yes,Yes,No
+113,9900000,"Sector 90, Gurugram, Haryana 122505, Sector 90, Gurgaon, Delhi NCR","Gurgaon, Delhi NCR",1760,3,2,4,Ready to Move,Resale,1,Unfurnished,3,Flat,5625,No,No,Yes,No
+114,7000000,"Sanjiv Malhotra D-2, 208/209, Ground Floor Sector-11, Rohin, New Delhi- 110085, Sector 11 Rohini, New Delhi - Rohini, Delhi NCR","Rohini, Delhi NCR",559,2,2,1,Ready to Move,Resale,1,Unfurnished,0,Individual House,12522.36,Yes,Yes,Yes,Yes
+115,5150000,"Sector 143, Noida, Sector 143, Noida, Delhi NCR","Noida, Delhi NCR",1234,2,2,2,Ready to Move,Resale,1,Unfurnished,0,Flat,4173.42,Yes,Yes,Yes,Yes
+116,7500000,"Paschim Vihar, New Delhi, Paschim Vihar, New Delhi - West, Delhi NCR","New Delhi - West, Delhi NCR",700,2,2,1,Ready to Move,Resale,1,Unfurnished,0,Flat,10714.29,No,Yes,Yes,No
+117,2630000,"415 81High street mall sector 81 not pull greater Faridabad, Sector 81, Faridabad, Delhi NCR","Faridabad, Delhi NCR",750,3,2,2,Under Construction,New Property,1,Unfurnished,0,Flat,3506.667,No,Yes,Yes,No
+118,4600000,"Uttam Nagar West, New Delhi - West, Delhi NCR","New Delhi - West, Delhi NCR",1000,3,2,1,Under Construction,New Property,1,Unfurnished,1,Flat,4600,Yes,Yes,Yes,Yes
+119,7500000,"G Tower, Amrapali Sapphire Phase I, Sector 45, Noida, Delhi NCR","Noida, Delhi NCR",1390,3,2,3,Ready to Move,Resale,1,Unfurnished,2,Flat,5395.683,No,No,Yes,No
+120,7000000,"Sector 69, Gurgaon, Sector 69, Gurgaon, Delhi NCR","Gurgaon, Delhi NCR",1326,3,3,3,Ready to Move,Resale,1,Unfurnished,2,Flat,5279.035,No,Yes,Yes,No
+121,5800000,"Sector 129, Noida, Delhi NCR","Noida, Delhi NCR",1270,3,3,1,Ready to Move,Resale,1,Unfurnished,0,Flat,4566.929,Yes,Yes,Yes,No
+122,5200000,"Sector 143, Noida, Delhi NCR","Noida, Delhi NCR",1175,2,2,1,Ready to Move,Resale,1,Unfurnished,0,Individual House,4425.532,No,Yes,Yes,Yes
+123,26000000,"Sector 128 Noida, Sector 128, Noida, Delhi NCR","Noida, Delhi NCR",3755,4,6,2,Ready to Move,New Property,2,Unfurnished,5,Flat,6924.101,No,Yes,Yes,No
+124,20000000,"DLF Capital Greens Phase 1, Moti Nagar, New Delhi - West, Delhi NCR","New Delhi - West, Delhi NCR",1650,3,3,4,Ready to Move,Resale,1,Unfurnished,0,Flat,12121.21,Yes,Yes,Yes,Yes
+125,3200000,"895., Mehrauli, New Delhi - South, Delhi NCR","New Delhi - South, Delhi NCR",800,2,2,1,Ready to Move,New Property,1,Unfurnished,0,Flat,4000,Yes,Yes,Yes,Yes
+126,8500000,"Near Dashmesh Hospital, Jail Road, Shiv Nagar, New Delhi - West, Delhi NCR","New Delhi - West, Delhi NCR",1100,2,2,1,Ready to Move,Resale,1,Furnished,0,Flat,7727.273,Yes,No,Yes,No
+127,4320000,"Sector 67, Gurgaon, Delhi NCR","Gurgaon, Delhi NCR",800,2,2,1,Ready to Move,Resale,1,Unfurnished,0,Flat,5400,No,No,Yes,No
+128,6710000,"Vasundhara, Ghaziabad, Vasundhara, Ghaziabad, Delhi NCR","Ghaziabad, Delhi NCR",1180,2,2,2,Ready to Move,Resale,1,Unfurnished,2,Flat,5686.441,No,Yes,Yes,No
+129,16900000,"firstfloor, Sushant Lok 1 Block C, Gurgaon, Delhi NCR","Gurgaon, Delhi NCR",1935,3,4,2,Ready to Move,Resale,2,Semi-Furnished,1,Flat,8733.85,Yes,Yes,Yes,Yes
+130,12500000,"Sec 30, Near N M C hospital, Noida, Ram Vihar, Noida, Delhi NCR","Noida, Delhi NCR",1800,3,3,2,Ready to Move,Resale,1,Unfurnished,0,Flat,6944.444,Yes,Yes,Yes,No
+131,5000000,"Unitech Unihomes, Tower A1, Sector-117, Noida, Sector 117, Noida, Delhi NCR","Noida, Delhi NCR",1200,3,2,3,Ready to Move,Resale,1,Unfurnished,0,Flat,4166.667,Yes,No,Yes,No
+132,12000000,"Lajpat Nagar, New Delhi, Lajpat Nagar 4, New Delhi - South, Delhi NCR","New Delhi - South, Delhi NCR",1250,2,2,2,Ready to Move,Resale,2,Unfurnished,0,Flat,9600,Yes,No,Yes,Yes
+133,2700000,"Plot Number 6 Flat number 101 Hans enclave Gurgaon, Hans Enclave, Gurgaon, Delhi NCR","Gurgaon, Delhi NCR",770,2,2,1,Ready to Move,Resale,1,Semi-Furnished,1,Flat,3506.494,Yes,Yes,Yes,Yes
+134,11000000,"Vasundhara Enclave, New Delhi - East, Delhi NCR","New Delhi - East, Delhi NCR",1200,3,2,1,Ready to Move,Resale,1,Furnished,0,Flat,9166.667,Yes,No,Yes,No
+135,14000000,"Row House, Sector 21 Surya Vihar-, Gurgaon, Delhi NCR","Gurgaon, Delhi NCR",2500,5,5,1,Ready to Move,Resale,3,Furnished,0,Flat,5600,Yes,Yes,Yes,Yes
+136,7500000,"Sector 37D, Gurgaon, Delhi NCR","Gurgaon, Delhi NCR",1675,3,3,1,Ready to Move,Resale,1,Unfurnished,0,Flat,4477.612,No,No,Yes,No
+137,12000000,"4a/301, Sector 85, Gurgaon, Delhi NCR","Gurgaon, Delhi NCR",2520,4,3,3,Ready to Move,Resale,1,Unfurnished,0,Flat,4761.905,Yes,Yes,Yes,No
+138,4100000,"Noida-Greater Noida Expy, Sector 134, Noida, Uttar Pradesh, Sector 134, Noida, Delhi NCR","Noida, Delhi NCR",1000,2,2,2,Ready to Move,Resale,2,Unfurnished,2,Flat,4100,Yes,Yes,Yes,Yes
+139,3790000,"Wave Floor Sec- 2, Wave City N.H. - 24 Ghaziabad, Wave City, Ghaziabad, Delhi NCR","Ghaziabad, Delhi NCR",1310,2,3,2,Ready to Move,New Property,1,Unfurnished,0,Flat,2893.13,No,Yes,Yes,No
+140,5200000,"Indirapuram, Nyay Khand 1, Ghaziabad, Delhi NCR","Ghaziabad, Delhi NCR",1065,2,2,3,Ready to Move,Resale,2,Semi-Furnished,3,Flat,4882.629,,Yes,Yes,No
+141,12500000,"Sector 70A, Gurgaon, Delhi NCR","Gurgaon, Delhi NCR",1830,3,3,3,Ready to Move,Resale,1,Unfurnished,2,Flat,6830.601,No,Yes,Yes,Yes
+142,15200000,"Sector 48, Gurgaon, Delhi NCR","Gurgaon, Delhi NCR",2268,3,3,2,Under Construction,New Property,1,Semi-Furnished,0,Flat,6701.94,Yes,Yes,Yes,Yes
+143,10500000,"Sector 80, Gurgaon, Sector 80, Gurgaon, Delhi NCR","Gurgaon, Delhi NCR",1821,3,3,3,Ready to Move,Resale,1,Unfurnished,0,Individual House,5766.063,No,Yes,No,No
+144,4000000,"Yamuna Expressway, Greater Noida, Delhi NCR","Noida, Delhi NCR",1115,2,2,1,Ready to Move,Resale,1,Unfurnished,2,Flat,3587.444,No,No,Yes,No
+145,3330000,"Sector 137, Noida, Delhi NCR","Noida, Delhi NCR",825,2,2,1,Ready to Move,Resale,1,Unfurnished,0,Individual House,4036.364,No,No,Yes,Yes
+146,17000000,"Niti Khand 1 Indirapuram Ghaziabad, Niti Khand-Indirapuram, Ghaziabad, Delhi NCR","Ghaziabad, Delhi NCR",3500,4,3,2,Ready to Move,Resale,1,Semi-Furnished,1,Flat,4857.143,Yes,Yes,Yes,Yes
+147,3600000,"Plot No.1, Gadaipur, Mehrauli-Mandi Road, Gadaipur, New Delhi - South, Delhi NCR","New Delhi - South, Delhi NCR",750,2,2,2,Ready to Move,Resale,1,Semi-Furnished,1,Flat,4800,No,Yes,Yes,No
+148,4500000,"sector 2, Rajendra Nagar, Ghaziabad, Delhi NCR","Ghaziabad, Delhi NCR",1250,3,2,1,Ready to Move,New Property,1,Unfurnished,0,Flat,3600,No,No,Yes,Yes
+149,5500000,"I block - 21069, Noida Extension, Noida, Delhi NCR","Noida, Delhi NCR",1375,3,3,3,Ready to Move,Resale,1,Unfurnished,0,Flat,4000,No,Yes,No,Yes
+150,24500000,"Sector 60, Gurgaon, Delhi NCR","Gurgaon, Delhi NCR",2797,4,4,1,Ready to Move,Resale,1,Unfurnished,0,Individual House,8759.385,No,No,Yes,Yes
+151,45000000,"Sector 42, Gurgaon, Delhi NCR","Gurgaon, Delhi NCR",9000,10,10,10,Under Construction,Resale,10,Unfurnished,0,Flat,5000,Yes,Yes,Yes,Yes
+152,5000000,"NH 24, Ghaziabad, NH 24, Ghaziabad, Delhi NCR","Ghaziabad, Delhi NCR",1470,3,2,3,Ready to Move,Resale,1,Unfurnished,0,Flat,3401.361,Yes,Yes,Yes,No
+153,12500000,"Sector 17, Faridabad, Delhi NCR","Faridabad, Delhi NCR",3150,3,3,2,Ready to Move,Resale,1,Semi-Furnished,0,Flat,3968.254,No,No,No,No
+154,7400000,"Vasundhara, Ghaziabad, Delhi NCR","Ghaziabad, Delhi NCR",1530,3,2,3,Ready to Move,Resale,1,Unfurnished,0,Flat,4836.601,Yes,No,No,No
+155,4100000,"H.No. 18A, Adarsh Nagar, Nandgram, Ghaziabad, Nand Gram, Ghaziabad, Delhi NCR","Ghaziabad, Delhi NCR",1200,3,2,1,Ready to Move,Resale,1,Furnished,0,Flat,3416.667,No,Yes,Yes,No
+156,16000000,"Dwarka Sector 22, New Delhi, Sector 22 Dwarka, New Delhi - Dwarka, Delhi NCR","New Delhi - Dwarka, Delhi NCR",1750,3,2,3,Ready to Move,Resale,2,Unfurnished,2,Flat,9142.857,Yes,Yes,Yes,Yes
+157,3250000,"Raj Nagar Extension Ghaziabad, Raj Nagar Extension, Ghaziabad, Delhi NCR","Ghaziabad, Delhi NCR",1050,2,2,2,Ready to Move,Resale,1,Unfurnished,0,Individual House,3095.238,No,No,No,No
+158,5500000,"2 Floor, Sector 16A, Faridabad, Delhi NCR","Faridabad, Delhi NCR",1100,2,2,2,Ready to Move,Resale,1,Unfurnished,0,Flat,5000,Yes,Yes,Yes,Yes
+159,9000000,"Sector 37D, Gurgaon, Sector 37D, Gurgaon, Delhi NCR","Gurgaon, Delhi NCR",1815,3,3,3,Ready to Move,Resale,1,Unfurnished,0,Individual House,4958.678,Yes,Yes,Yes,Yes
